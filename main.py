@@ -1,3 +1,5 @@
 for i in range(10):
-    print("helo wrorld")
+    if i%2 == 0
+        print("helo wrorld")
+
 
